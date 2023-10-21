@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Featured | NMA</title>
+	<atom:link href="../category/featured/feed/" rel="self" type="application/rss+xml" />
+	<link>../</link>
+	<description>New Media Arts</description>
+	<lastBuildDate>Sat, 12 Dec 2020 01:45:39 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>../../wp-content/uploads/2020/03/cropped-favicon-32x32.png</url>
+	<title>Featured | NMA</title>
+	<link>../</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">173757349</site>	<item>
+		<title>Sally Smith &#8217;02</title>
+		<link>..//sally-smith-02/</link>
+		
+		<dc:creator><![CDATA[chris]]></dc:creator>
+		<pubDate>Sat, 12 Dec 2020 01:38:03 +0000</pubDate>
+				<category><![CDATA[Featured]]></category>
+		<category><![CDATA[NMA Student]]></category>
+		<guid isPermaLink="false">..//?p=778</guid>
+
+					<description><![CDATA[TitleLocation Currently working as a UI designer and front-end web developer at Google. Previously head of Interactive at Ikayzo. Experience assisting local organizations with telling their story across the digital landscape and providing clients with streamlined, end-to-end creative solutions that match their digital &#38; technical challenges. Feature local project: Mike led a creative team of [&#8230;]]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">778</post-id>	</item>
+		<item>
+		<title>John Doe &#8217;01</title>
+		<link>..//john-doe-01/</link>
+		
+		<dc:creator><![CDATA[chris]]></dc:creator>
+		<pubDate>Sat, 12 Dec 2020 01:37:36 +0000</pubDate>
+				<category><![CDATA[Featured]]></category>
+		<category><![CDATA[NMA Student]]></category>
+		<guid isPermaLink="false">..//?p=776</guid>
+
+					<description><![CDATA[TitleLocation Currently working as a UI designer and front-end web developer at Google. Previously head of Interactive at Ikayzo. Experience assisting local organizations with telling their story across the digital landscape and providing clients with streamlined, end-to-end creative solutions that match their digital &#38; technical challenges. Feature local project: Mike led a creative team of [&#8230;]]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">776</post-id>	</item>
+		<item>
+		<title>First Last &#8217;00</title>
+		<link>..//first-last-00/</link>
+		
+		<dc:creator><![CDATA[chris]]></dc:creator>
+		<pubDate>Sat, 12 Dec 2020 01:36:23 +0000</pubDate>
+				<category><![CDATA[Featured]]></category>
+		<category><![CDATA[NMA Student]]></category>
+		<guid isPermaLink="false">..//?p=773</guid>
+
+					<description><![CDATA[TitleLocation Currently working as a UI designer and front-end web developer at Google. Previously head of Interactive at Ikayzo. Experience assisting local organizations with telling their story across the digital landscape and providing clients with streamlined, end-to-end creative solutions that match their digital &#38; technical challenges. Feature local project: Mike led a creative team of [&#8230;]]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">773</post-id>	</item>
+		<item>
+		<title>Student Name &#8217;00</title>
+		<link>..//student-name-00/</link>
+		
+		<dc:creator><![CDATA[chris]]></dc:creator>
+		<pubDate>Sat, 12 Dec 2020 01:35:39 +0000</pubDate>
+				<category><![CDATA[Featured]]></category>
+		<category><![CDATA[NMA Student]]></category>
+		<guid isPermaLink="false">..//?p=771</guid>
+
+					<description><![CDATA[TitleLocation Currently working as a UI designer and front-end web developer at Google. Previously head of Interactive at Ikayzo. Experience assisting local organizations with telling their story across the digital landscape and providing clients with streamlined, end-to-end creative solutions that match their digital &#38; technical challenges. Feature local project: Mike led a creative team of [&#8230;]]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">771</post-id>	</item>
+	</channel>
+</rss>
